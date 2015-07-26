@@ -1,0 +1,23 @@
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\bin\Debug\zedgraph.exe
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\bin\Debug\zedgraph.pdb
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.Properties.Resources.resources
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.csproj.GenerateResource.Cache
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.exe
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.pdb
+C:\Users\Наталья\Desktop\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.Form1.resources
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.exe
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.pdb
+G:\Дима\Обработка изображений\zedgraph\zedgraph\bin\Debug\zedgraph.exe
+G:\Дима\Обработка изображений\zedgraph\zedgraph\bin\Debug\zedgraph.pdb
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.Properties.Resources.resources
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.GraphForm.resources
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.csproj.GenerateResource.Cache
+G:\Дима\Обработка изображений\zedgraph\zedgraph\obj\x86\Debug\zedgraph.csprojResolveAssemblyReference.cache
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.exe
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.pdb
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\bin\Debug\zedgraph.exe
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\bin\Debug\zedgraph.pdb
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.csprojResolveAssemblyReference.cache
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.GraphForm.resources
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.Properties.Resources.resources
+C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Debug\zedgraph.csproj.GenerateResource.Cache
