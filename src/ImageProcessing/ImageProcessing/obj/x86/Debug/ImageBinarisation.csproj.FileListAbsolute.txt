@@ -1,8 +1,0 @@
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.BinarisationForm.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageBinarisation.csproj.GenerateResource.Cache
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageBinarisation.csprojResolveAssemblyReference.cache

@@ -1,9 +1,0 @@
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\bin\Release\zedgraph.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\bin\Release\zedgraph.pdb
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\bin\Release\ZedGraph.dll
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.GraphForm.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.Properties.Resources.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.csproj.GenerateResource.Cache
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.pdb
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\zedgraph\obj\x86\Release\zedgraph.csprojResolveAssemblyReference.cache

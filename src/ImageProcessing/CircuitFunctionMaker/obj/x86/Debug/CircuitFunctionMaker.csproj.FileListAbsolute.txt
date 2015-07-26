@@ -1,7 +1,0 @@
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\bin\Debug\CircuitFunctionMaker.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\bin\Debug\CircuitFunctionMaker.pdb
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\obj\x86\Debug\CircuitFunctionMaker.CuircuitFunctionForm.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\obj\x86\Debug\CircuitFunctionMaker.Properties.Resources.resources
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\obj\x86\Debug\CircuitFunctionMaker.csproj.GenerateResource.Cache
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\obj\x86\Debug\CircuitFunctionMaker.exe
-C:\Users\Наталья\Documents\Visual Studio 2010\Projects\ImageProcessing\CircuitFunctionMaker\obj\x86\Debug\CircuitFunctionMaker.pdb
